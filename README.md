@@ -17,12 +17,12 @@ This project uses **Suno Bark's** text-to-speech technology to convert text into
    ```bash
    git clone https://github.com/dhuleprajakta/text-to-speech.git
 
-Install the required dependencies:
+2. Install the required dependencies:
+    ```bash
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-Run the application:
-
-python app.py
+3. Run the application:
+    ```bash
+   python app.py
 
 
