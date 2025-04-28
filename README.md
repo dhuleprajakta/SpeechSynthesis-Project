@@ -38,4 +38,4 @@ This project uses **Suno Bark's** text-to-speech technology to convert text into
 - **torch** 🔥
 
 
-![Description of Image](path-to-image)
+![Description of Image]([path-to-image](https://github.com/dhuleprajakta/SpeechSynthesis-Project/blob/main/Text_to_speech.png)
