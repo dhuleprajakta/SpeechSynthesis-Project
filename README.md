@@ -26,3 +26,13 @@ This project uses **Suno Bark's** text-to-speech technology to convert text into
    python app.py
 
 
+## Usage 🎬
+1. Input your text into the provided field 📝
+2. Press the "Convert to Speech" button 🎤
+3. Enjoy the generated speech! 🎧
+
+## Technologies Used ⚙️
+- **Suno Bark** for TTS technology 🧠
+- Python 🐍
+- **transformers** 📚
+- **torch** 🔥
