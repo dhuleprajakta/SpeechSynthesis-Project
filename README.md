@@ -36,3 +36,6 @@ This project uses **Suno Bark's** text-to-speech technology to convert text into
 - Python 🐍
 - **transformers** 📚
 - **torch** 🔥
+
+
+![Description of Image](path-to-image)
